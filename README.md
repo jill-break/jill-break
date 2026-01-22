@@ -8,7 +8,7 @@ Data Engineer | Cloud (AWS) | Python & SQL | Building scalable ETL pipelines wit
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [couragedei555@gmail.com](mailto:couragedei555@gmail.com)
-* 🚀  I'm currently working on [I’m currently working on a TMDB movie data analysis pipeline and real-time data ingestion with Spark.](http://github.com/jill-break/DEM05-Big-Data-Module-Lab-1-TMDB-Movie-Data-Analysis-using-Spark.git)
+* 🚀  I'm currently working on [I’m currently working on a Airflow Project: Flight Price Analysis.]([http://github.com/jill-break/DEM05-Big-Data-Module-Lab-1-TMDB-Movie-Data-Analysis-using-Spark.git](https://github.com/jill-break/DE05-Module-Lab-3-Airflow-Project-Flight-Price-Analysis.git))
 * 🧠  I'm currently learning Advance Python, Data Structures & Algorithms and Airflow
 * 👥  I'm looking to collaborate on I’m looking to collaborate on cloud infrastructure projects (AWS) or open-source data engineering tools.
 * 💬  Ask me about I tend to prefer learning through comprehensive, detailed notes that allows me to master topics deeply on my own, rather than through rapid-fire practice drills
@@ -27,3 +27,4 @@ Data Engineer | Cloud (AWS) | Python & SQL | Building scalable ETL pipelines wit
 <a href="http://www.github.com/jill-break"><img src="https://github-readme-stats.vercel.app/api?username=jill-break&show_icons=true&hide=issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jill-break's GitHub stats" /></a>
 
 <a href="https://github.com/jill-break" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jill-break&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
