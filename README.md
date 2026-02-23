@@ -24,14 +24,6 @@ Data Engineer | Cloud (AWS) | Python & SQL | Building scalable ETL pipelines wit
 
 <b>My GitHub Stats</b>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jill-break&show_icons=true&hide=issues,contribs&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&cache_seconds=1800" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jill-break&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&cache_seconds=1800" />
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jill-break&show_icons=true&hide=issues,contribs&count_private=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jill-break&layout=compact&theme=dark)
-
 
 
 
